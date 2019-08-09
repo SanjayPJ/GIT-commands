@@ -1,2 +1,1 @@
-# GIT-commands
-Commands for Git command line
+# GIT COMMANDS
