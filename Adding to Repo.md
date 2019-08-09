@@ -8,7 +8,7 @@ git clone [url](link)
 
  git config --global user.email "cyan14froste@gmail.com"
 
-`3.Add all files in the repo to Github`
+`3.To Add all files from the local repo`
 
 git add .
 
