@@ -1,4 +1,20 @@
-git clone [url](link)   `clones a repo using the url`
+`1.clone the repo using the url. `
 
-git init   `starts a new repo`
+git clone [url](link)   
+
+`2.To tell git who you are, use these:`
+
+ git config --global user.name "CyanFroste"
+
+ git config --global user.email "cyan14froste@gmail.com"
+
+`3.Add all files in the repo to Github`
+
+git add .
+
+`
+
+
+
+
 
