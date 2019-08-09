@@ -12,7 +12,9 @@ git clone [url](link)
 
 git add .
 
-`
+`4.Commit changes to Git`
+
+git commit -m "quote"
 
 
 
