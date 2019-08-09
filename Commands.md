@@ -16,6 +16,14 @@ git add .
 
 git commit -m "quote"
 
+`4.bind remote repo to local repo`
+
+git remote add origin https://github.com/YourUsername/some-small-app.git
+
+`5.Push the changes to the said remote repo`
+
+git push -u origin master
+
 
 
 
